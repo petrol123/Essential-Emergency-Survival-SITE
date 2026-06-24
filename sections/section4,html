@@ -1,1 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Section 4 — Food</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+
+<body>
+
+<div class="sidebar">
+    <div class="title">Survival Guide</div>
+    <ul>
+        <li><a href="../index.html">← Back to Home</a></li>
+        <li><a href="section1.html">1. Immediate Response</a></li>
+        <li><a href="section2.html">2. Bug-Out Bag</a></li>
+        <li><a href="section3.html">3. Water</a></li>
+        <li><a href="section4.html" class="active">4. Food</a></li>
+        <li><a href="section5.html">5. Fire</a></li>
+        <li><a href="section6.html">6. Shelter</a></li>
+        <li><a href="section7.html">7. Medical</a></li>
+        <li><a href="section8.html">8. Communication & Navigation</a></li>
+        <li><a href="section9.html">9. Power</a></li>
+        <li><a href="section10.html">10. Barter & Community</a></li>
+        <li><a href="section11.html">11. Sanitation</a></li>
+        <li><a href="section12.html">12. Quick Reference</a></li>
+        <li><a href="section13.html">13. Personal Notes</a></li>
+    </ul>
+</div>
+
+<div class="content">
+
+<header>
+    <h1>Section 4 — Food</h1>
+    <p class="subtitle">Foraging, Rationing, Trapping, and Long‑Term Survival</p>
+</header>
+
+<section>
+    <h2>How Long Can You Survive Without Food?</h2>
+    <p>The human body can survive **3 weeks without food**, but performance drops fast after 48–72 hours.  
+    Your goal is not luxury — it’s **calories, nutrients, and energy** to keep moving, thinking, and staying warm.</p>
+</section>
+
+<section>
+    <h2>Calorie Priorities</h2>
+    <ul>
+        <li>Minimum survival: **1,200 calories/day**</li>
+        <li>Optimal survival: **1,800–2,400 calories/day**</li>
+        <li>High exertion: **3,000+ calories/day**</li>
+    </ul>
+</section>
+
+<section>
+    <h2>High‑Value Survival Foods</h2>
+
+    <h3>Top 10 Calorie‑Dense Foods</h3>
+    <ul>
+        <li>Peanut butter</li>
+        <li>Nuts & trail mix</li>
+        <li>Energy bars</li>
+        <li>Instant rice</li>
+        <li>Oats</li>
+        <li>Tuna packets</li>
+        <li>Jerky</li>
+        <li>Ramen</li>
+        <li>Honey</li>
+        <li>Hard cheese (short‑term)</li>
+    </ul>
+
+    <h3>Foods That Last 10+ Years</h3>
+    <ul>
+        <li>White rice</li>
+        <li>Dry beans</li>
+        <li>Wheat berries</li>
+        <li>Honey (indefinite shelf life)</li>
+        <li>Salt</li>
+        <li>Sugar</li>
+        <li>Freeze‑dried meals</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Foraging Basics</h2>
+    <p>Foraging is high‑reward but high‑risk if you don’t know what you’re doing.  
+    Follow the **Universal Edibility Test** only in emergencies.</p>
+
+    <h3>Safe, Common Edibles (North America)</h3>
+    <ul>
+        <li>Dandelion (entire plant edible)</li>
+        <li>Cattail (roots, shoots, pollen)</li>
+        <li>Pine needles (vitamin C tea)</li>
+        <li>Wild onion/garlic (must smell like onion)</li>
+        <li>Acorns (leach tannins first)</li>
+    </ul>
+
+    <h3>Plants to Avoid</h3>
+    <ul>
+        <li>Anything with a milky sap</li>
+        <li>Plants with thorns (exceptions exist)</li>
+        <li>Almond‑smelling plants (cyanide)</li>
+        <li>Umbrella‑shaped flowers (hemlock family)</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Trapping & Protein Sources</h2>
+    <p>Small game provides the best return on energy investment.</p>
+
+    <h3>Effective Traps</h3>
+    <ul>
+        <li>Figure‑4 deadfall</li>
+        <li>Snare traps</li>
+        <li>Spring pole snare</li>
+        <li>Fish traps (weirs, funnel traps)</li>
+    </ul>
+
+    <h3>High‑Value Protein Sources</h3>
+    <ul>
+        <li>Fish (best return for effort)</li>
+        <li>Squirrels</li>
+        <li>Rabbits</li>
+        <li>Insects (crickets, grasshoppers)</li>
+        <li>Bird eggs (seasonal)</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Cooking Without Modern Tools</h2>
+    <ul>
+        <li>Boiling in metal cup or can</li>
+        <li>Hot rock cooking</li>
+        <li>Stick roasting</li>
+        <li>Clay baking (protects meat)</li>
+        <li>Solar cooking (slow but fuel‑free)</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Food Safety Rules</h2>
+    <ul>
+        <li>When in doubt, throw it out</li>
+        <li>Cook all meat thoroughly</li>
+        <li>Avoid scavenged meat</li>
+        <li>Never eat mushrooms unless 100% certain</li>
+        <li>Store food away from sleeping area</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Rationing Strategy</h2>
+    <ul>
+        <li>Eat small, frequent meals</li>
+        <li>Prioritize fats and proteins</li>
+        <li>Save high‑carb foods for movement days</li>
+        <li>Never ration water to save food</li>
+    </ul>
+</section>
+
+</div>
+
+</body>
+</html>
 
