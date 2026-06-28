@@ -2,48 +2,34 @@
 
 Your complete resource for civilian emergency preparedness and survival skills.
 
+🌐 **Live Website:** https://petrol123.github.io/Essential-Emergency-Survival-SITE/
+
+---
+
 ## 📚 Presentations
+
+### SlideShow - Emergency Survival Procedures
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTeitLDGledHdcAE3T833IvEjwp97YAY2wN59dWNbfSPoLOgRtDEWLbuKFSyPf4Gw/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Civilian Survival Manual
 [📥 Download Civilian Survival Manual](./Civilian_Survival_Manual.pptx)
 
 A comprehensive guide covering essential survival techniques and emergency preparedness.
 
-### SlideShow Presentation
-[📥 Download SlideShow](./SlideShow.pptx)
-
-Interactive presentation on emergency survival procedures.
-
----
-
-## 🚀 View Online
-
-This site is hosted on GitHub Pages and accessible at:
-**https://petrol123.github.io/Essential-Emergency-Survival-SITE/**
-
-### To enable GitHub Pages:
-1. Go to **Settings** → **Pages**
-2. Select `main` branch as source
-3. Choose a theme (optional)
-4. Save
-
 ---
 
 ## 📖 How to Use These Files
 
-### Option 1: Download & Open Locally
-Click the download links above to get PowerPoint files and view them on your computer.
+### View Online
+- Access the **live website** with embedded presentations at:
+  **https://petrol123.github.io/Essential-Emergency-Survival-SITE/**
 
-### Option 2: View as PDF
-- Right-click on `.pptx` file in GitHub
-- Select "Download" and save as PDF using your preferred tool
+### Download & Open Locally
+Click the download link above to get PowerPoint files and view them on your computer.
 
-### Option 3: Share Online
-Convert presentations to Google Slides:
-1. Open PowerPoint file on your computer
-2. Upload to Google Drive
-3. Convert to Google Slides
-4. Get shareable link for embedding
+### Share
+The embedded Google Slides presentation can be viewed directly in this README and on the live site.
 
 ---
 
@@ -58,9 +44,10 @@ Convert presentations to Google Slides:
 
 ## 💡 Quick Links
 
-- **Download All Files** - Clone this repository
-- **Report Issues** - Use GitHub Issues
-- **Contribute** - Submit pull requests with improvements
+- **Live Site:** https://petrol123.github.io/Essential-Emergency-Survival-SITE/
+- **Repository:** https://github.com/petrol123/Essential-Emergency-Survival-SITE
+- **Report Issues:** Use GitHub Issues
+- **Contribute:** Submit pull requests with improvements
 
 ---
 
