@@ -2,7 +2,7 @@
 
 Your complete resource for civilian emergency preparedness and survival skills.
 
-🌐 **Live Website:** https://petrol123.github.io/Essential-Emergency-Survival-SITE/
+🌐 **Live Website:** [https://petrol123.github.io/Essential-Emergency-Survival-SITE/](https://petrol123.github.io/Essential-Emergency-Survival-SITE/)
 
 ---
 
@@ -10,9 +10,12 @@ Your complete resource for civilian emergency preparedness and survival skills.
 
 ### SlideShow - Emergency Survival Procedures
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTeitLDGledHdcAE3T833IvEjwp97YAY2wN59dWNbfSPoLOgRtDEWLbuKFSyPf4Gw/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+View the interactive presentation below or [download it here](./SlideShow.pptx):
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTeitLDGledHdcAE3T833IvEjwp97YAY2wN59dWNbfSPoLOgRtDEWLbuKFSyPf4Gw/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Civilian Survival Manual
+
 [📥 Download Civilian Survival Manual](./Civilian_Survival_Manual.pptx)
 
 A comprehensive guide covering essential survival techniques and emergency preparedness.
@@ -22,11 +25,11 @@ A comprehensive guide covering essential survival techniques and emergency prepa
 ## 📖 How to Use These Files
 
 ### View Online
-- Access the **live website** with embedded presentations at:
-  **https://petrol123.github.io/Essential-Emergency-Survival-SITE/**
+- Access the **[live website](https://petrol123.github.io/Essential-Emergency-Survival-SITE/)** with embedded presentations
+- View the SlideShow above directly in this README
 
 ### Download & Open Locally
-Click the download link above to get PowerPoint files and view them on your computer.
+Click the download links above to get PowerPoint files and view them on your computer.
 
 ### Share
 The embedded Google Slides presentation can be viewed directly in this README and on the live site.
@@ -44,10 +47,10 @@ The embedded Google Slides presentation can be viewed directly in this README an
 
 ## 💡 Quick Links
 
-- **Live Site:** https://petrol123.github.io/Essential-Emergency-Survival-SITE/
-- **Repository:** https://github.com/petrol123/Essential-Emergency-Survival-SITE
-- **Report Issues:** Use GitHub Issues
-- **Contribute:** Submit pull requests with improvements
+- **[Live Website](https://petrol123.github.io/Essential-Emergency-Survival-SITE/)** - View online
+- **[Repository](https://github.com/petrol123/Essential-Emergency-Survival-SITE)** - Clone or download
+- **[Report Issues](https://github.com/petrol123/Essential-Emergency-Survival-SITE/issues)** - Use GitHub Issues
+- **[Contribute](https://github.com/petrol123/Essential-Emergency-Survival-SITE/pulls)** - Submit pull requests
 
 ---
 
